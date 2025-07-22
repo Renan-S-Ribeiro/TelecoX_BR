@@ -42,5 +42,5 @@ Este projeto tem como objetivo analisar o comportamento de **evasão de clientes
 
 ## 📄 Relatório
 
-Todo o processo — da extração ao relatório final — está documentado no notebook:
+Todo o processo — da extração ao relatório final — está documentado no notebook: TelecomX_BR.ipynb
 
